@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #000;
+    
+}
+p{
+  
+    font-size: 8px;
+    line-height: 8px;
+    text-align: justify;
+    -webkit-background-size: cover;
+background: url(/Jamp/jamilla.jpg)no-repeat;
+background-attachment: fixed;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: black;
+
+}
